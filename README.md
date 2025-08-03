@@ -12,10 +12,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Class 11 Student passionate about **web dev**
-- 📚 Learning from [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
-- 🛠️ Focused on **HTML**, **CSS**, **JavaScript**
-- 🔧 Currently building a **car rental website**
+- 🎓 Student passionate about **web dev**
+- 🛠️ Focused on **HTML**, **CSS**, **JavaScript** and **python**
 - ⚡ Also interested in bikes, traveling & YouTube content creation
 
 ---
